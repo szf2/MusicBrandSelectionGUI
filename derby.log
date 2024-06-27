@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jun 27 13:22:40 CDT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0190-5aef-73f7-00000787e478 
+on database directory /Users/surkuriafisher/Downloads/p1Import 4/myDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@42110406 
+Loaded from file:/Users/surkuriafisher/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.1+12
+user.dir=/Users/surkuriafisher/Downloads/p1Import 4
+os.name=Mac OS X
+os.arch=x86_64
+os.version=11.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
